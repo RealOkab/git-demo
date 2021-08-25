@@ -2,6 +2,7 @@
 This is my first command read me file
 
 ## Website content
-Boilerplate of HTML set
+List of files in the website
+1. index.html
 
 
